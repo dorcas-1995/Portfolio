@@ -1,0 +1,33 @@
+body {
+   display: flex;
+   border: 2px;
+   border-radius: 1%;
+   background-image: url("my pic.jpeg");
+}
+
+.profile-pic {
+   
+    margin-left: 10px;
+    background-image: "profile.jpg";
+}
+
+#information {
+    background-color:whitesmoke;
+    margin-left: 100px;
+    width: 800px;
+    border-radius: 30px;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    border-radius: 100px;
+}
+h3 {
+    font-size: x-large;
+    padding-left: 300px;
+}
+p {
+   padding: 20px;
+   font-size: medium;
+}
